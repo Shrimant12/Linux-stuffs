@@ -5,6 +5,5 @@ sudo ifconfig wlan0 hw ether a8:86:dd:a3:b5:47
 sudo ifconfig wlan0 up
 sudo service network-manager start
 
-#macchanger wlan0 -a 
-#macchanger eth0 -a 
+
 
